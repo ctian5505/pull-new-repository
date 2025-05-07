@@ -1,3 +1,7 @@
 head {
-  color: black;
+  color: red;
+}
+
+p {
+  background-color: red;
 }
